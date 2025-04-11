@@ -59,7 +59,7 @@ This dashboard answers key questions about Netflix content:
 ## 🙋‍♂️ Author
 
 **Abdallah** – Data Analyst | Power BI & Excel Enthusiast  
-🔗 [LinkedIn Profile](https://www.linkedin.com/in/abdallah-ahmed-hamdy-60a84033a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) *(Add your real LinkedIn link here)*
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/abdallah-ahmed-hamdy-60a84033a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) 
 
 ---
 
